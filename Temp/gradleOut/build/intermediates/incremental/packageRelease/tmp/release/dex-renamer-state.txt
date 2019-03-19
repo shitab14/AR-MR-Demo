@@ -1,0 +1,4 @@
+#Tue Mar 19 16:22:21 BDT 2019
+base.0=F\:\\\#\#CleanSlateWithADate\\19.3\\VuforiaDemo\\Vuforia_Demo\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
